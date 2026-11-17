@@ -18,8 +18,8 @@
         "Allowoffline": false
     },
     {
-        "device_id": "613e1daf3a6fd1f3",
+        "device_id": "ab1705ad9abf2890",
         "key": "123456",
-        "expirydate": "15-03-2026",
-        "Allowoffline": true    }
+        "expirydate": "15-12-2026",
+        "Allowoffline": false    }
 ]
